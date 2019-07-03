@@ -14,4 +14,4 @@ bot.on('guildMemberAdd', member => {
 });
 
 
-bot.login(cfg.token)
+bot.login("NTg5ODIxNDY3MDgxMDQ4MDY1.XQZSeA.uPbJbSKaCKi_gw9XbiGwTBDo7O0")
